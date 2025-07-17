@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/blackmac-sipgateio-mcp-badge.png)](https://mseep.ai/app/blackmac-sipgateio-mcp)
+
 # Sipgate API MCP Server
 
 > **Disclaimer**: This is an unofficial integration and is not affiliated with, officially maintained, or endorsed by sipgate GmbH. This is a community project that uses the public sipgate API.
